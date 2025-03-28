@@ -5,7 +5,7 @@ import (
 )
 
 var count_bombs int
-var game_over = false
+var game_over bool
 var game_board [][]string
 var board_map [][]string
 
